@@ -1,0 +1,15 @@
+{
+  "name": "indicadores-angularjs",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "karma start"
+  },
+  "devDependencies": {
+    "jasmine-core": "^4.0.0",
+    "karma": "^6.3.0",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^4.0.1",
+    "karma-ng-html2js-preprocessor": "^1.0.0",
+    "karma-coverage": "^2.0.3"
+  }
+}
