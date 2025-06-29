@@ -1,4 +1,4 @@
-# Prueba Técnica - Frontend AngularJS (3IT)
+# Prueba - Frontend AngularJS
 
 Este proyecto es una aplicación simple en AngularJS para mostrar indicadores financieros desde la API del CMF Chile.
 
