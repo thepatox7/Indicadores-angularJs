@@ -21,5 +21,5 @@ Este proyecto es una aplicación simple en AngularJS para mostrar indicadores fi
 
 ## Notas
 
- Proyecto hecho con AngularJS 1.8 y Bootstrap 3.
+ Proyecto hecho con AngularJS 1.8 y Bootstrap.
  Chart.js para gráficos.
